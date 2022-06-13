@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/journalice" target="blank"><img src="https://img.shields.io/twitter/follow/journalice?logo=twitter&style=for-the-badge" alt="journalice" /></a> </p>
 
-- 🌱 I’m currently learning **code** to enhance my reporting
-
 -  I'm an alumni from Le Wagon (batch #860)
 
 - 🌱 I’m currently learning **code** to enhance my reporting (just out from Le Wagon)
