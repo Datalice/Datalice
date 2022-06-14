@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **journalism, data & code :bar_chart:** 
 
-- 📫 How to reach me **@journalice** on Twitter
+- 📫 Reach me on Twitter **@journalice** 
 
 
 <h3 align="left">Let's chat:</h3>
