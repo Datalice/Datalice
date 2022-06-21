@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/journalice" target="blank"><img src="https://img.shields.io/twitter/follow/journalice?logo=twitter&style=for-the-badge" alt="journalice" /></a> </p>
 
--  I'm an alumni from Le Wagon (batch #860)
+- I'm an alumni from Le Wagon (batch #860)
 
 - 🌱 I’m currently learning **code** to enhance my reporting skills
 
 - 👯 I would love to collaborate on **investigations**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Datalice](https://github.com/Datalice)
 
 - 💬 Ask me about **journalism, data & code :bar_chart:** 
 
