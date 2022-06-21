@@ -7,7 +7,7 @@
 
 -  I'm an alumni from Le Wagon (batch #860)
 
-- 🌱 I’m currently learning **code** to enhance my reporting (just out from Le Wagon)
+- 🌱 I’m currently learning **code** to enhance my reporting skills
 
 - 👯 I would love to collaborate on **investigations**
 
